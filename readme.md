@@ -1,3 +1,4 @@
+https://fantasyscannr.web.app/
 *ONLY COMPATIBLE WITH NFL "SLEEPER" FANTASY LEAGUES*
 
 Simply change the currentYearID variable to your desired league ID
